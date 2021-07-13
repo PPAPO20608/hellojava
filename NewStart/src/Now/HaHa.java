@@ -2,7 +2,7 @@ package Now;
 
 public class HaHa {
 
-	HaHa(){
+	HaHa(int a){
 		
 	}
 	
